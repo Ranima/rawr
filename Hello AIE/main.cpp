@@ -7,6 +7,7 @@
 int main()
 {
 	printf("Hello AIE. Im a pirot.");
+	printf(" This is more text");
 
 	getchar();
 }
